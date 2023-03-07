@@ -1,0 +1,15 @@
+C:\Users\kimdo\source\repos\Kschool.click_Macro\Kschool.click_Macro\bin\Debug\Kschool.click_Macro.exe.config
+C:\Users\kimdo\source\repos\Kschool.click_Macro\Kschool.click_Macro\bin\Debug\Kschool.click_Macro.exe
+C:\Users\kimdo\source\repos\Kschool.click_Macro\Kschool.click_Macro\bin\Debug\Kschool.click_Macro.pdb
+C:\Users\kimdo\source\repos\Kschool.click_Macro\Kschool.click_Macro\obj\Debug\Kschool.click_Macro.csproj.AssemblyReference.cache
+C:\Users\kimdo\source\repos\Kschool.click_Macro\Kschool.click_Macro\obj\Debug\Kschool.click_Macro.csproj.SuggestedBindingRedirects.cache
+C:\Users\kimdo\source\repos\Kschool.click_Macro\Kschool.click_Macro\obj\Debug\Kschool.click_Macro.Properties.Resources.resources
+C:\Users\kimdo\source\repos\Kschool.click_Macro\Kschool.click_Macro\obj\Debug\Kschool.click_Macro.csproj.GenerateResource.cache
+C:\Users\kimdo\source\repos\Kschool.click_Macro\Kschool.click_Macro\obj\Debug\Kschool.click_Macro.csproj.CoreCompileInputs.cache
+C:\Users\kimdo\source\repos\Kschool.click_Macro\Kschool.click_Macro\obj\Debug\Kschool.click_Macro.exe
+C:\Users\kimdo\source\repos\Kschool.click_Macro\Kschool.click_Macro\obj\Debug\Kschool.click_Macro.pdb
+C:\Users\kimdo\source\repos\Kschool.click_Macro\Kschool.click_Macro\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\kimdo\source\repos\Kschool.click_Macro\Kschool.click_Macro\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\kimdo\source\repos\Kschool.click_Macro\Kschool.click_Macro\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\kimdo\source\repos\Kschool.click_Macro\Kschool.click_Macro\bin\Debug\WebDriver.dll
+C:\Users\kimdo\source\repos\Kschool.click_Macro\Kschool.click_Macro\obj\Debug\Kschool.click_Macro.csproj.CopyComplete
